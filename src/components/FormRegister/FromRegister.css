@@ -1,0 +1,27 @@
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #333;
+}
+
+.form-register {
+  border-radius: 20px;
+  border: 1px blue solid;
+  padding: 30px;
+}
+
+.form-title {
+  text-align: center;
+  border-bottom: 1px blue solid;
+  padding-bottom: 8px;
+}
+
+.form-footer {
+  margin-top: 50px;
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+}
